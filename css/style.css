@@ -8087,7 +8087,7 @@ textarea.form-control {
 .ftco-footer {
   font-size: 16px;
   padding: 7em 0;
-  background: #252525; }
+  background:#A31AD1; }
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
     letter-spacing: .1em; }
@@ -8157,12 +8157,12 @@ textarea.form-control {
       font-size: 26px;
       top:20% ;
       left:50%;
-		color: #191919;
+		color: #9901CC !important;
       -webkit-transform: translate(-50%, -50%);
       -ms-transform: translate(-50%, -50%);
       transform: translate(-50%, -50%); }
     .ftco-header-social li :hover {
-      color:#9901CC !important; 
+      color:#252525 !important; 
 }
 
 
